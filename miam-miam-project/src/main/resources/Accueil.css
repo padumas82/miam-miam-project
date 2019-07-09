@@ -1,0 +1,18 @@
+body {
+    background-color: skyblue;
+}
+
+header {
+    border: solid black 1px;
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+#logo {
+    margin-top: 20px;
+    display: inline-block;
+}
+
+nav {
+    float: right;
+}
